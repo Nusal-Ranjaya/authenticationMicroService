@@ -13,3 +13,4 @@ D:\DotNet\BackendInternProect\authenticationMicroService\AuthenticationBusinessL
 D:\DotNet\BackendInternProect\authenticationMicroService\AuthenticationBusinessLogicLayer\obj\Debug\net8.0\refint\AuthenticationBusinessLogicLayer.dll
 D:\DotNet\BackendInternProect\authenticationMicroService\AuthenticationBusinessLogicLayer\obj\Debug\net8.0\AuthenticationBusinessLogicLayer.pdb
 D:\DotNet\BackendInternProect\authenticationMicroService\AuthenticationBusinessLogicLayer\obj\Debug\net8.0\ref\AuthenticationBusinessLogicLayer.dll
+D:\DotNet\BackendInternProect\authenticationMicroService\AuthenticationBusinessLogicLayer\obj\Debug\net8.0\AuthenticationBusinessLogicLayer.sourcelink.json

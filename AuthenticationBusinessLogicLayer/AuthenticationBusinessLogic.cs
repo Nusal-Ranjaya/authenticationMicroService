@@ -30,7 +30,8 @@ namespace AuthenticationBusinessLogicLayer
                 {
                     Subject = new ClaimsIdentity(new Claim[]
                     {
-                    new Claim(ClaimTypes.Name, user.UserName)
+                        new Claim("UserId", valid.Id.ToString()),
+                        new Claim(ClaimTypes.Name, user.UserName)
                       
                     }),
                     Expires = DateTime.UtcNow.AddHours(0.5),

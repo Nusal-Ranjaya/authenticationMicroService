@@ -251,3 +251,4 @@ D:\DotNet\BackendInternProect\authenticationMicroService\authenticationAPIEndPoi
 D:\DotNet\BackendInternProect\authenticationMicroService\authenticationAPIEndPoint\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\DotNet\BackendInternProect\authenticationMicroService\authenticationAPIEndPoint\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 D:\DotNet\BackendInternProect\authenticationMicroService\authenticationAPIEndPoint\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DotNet\BackendInternProect\authenticationMicroService\authenticationAPIEndPoint\obj\Debug\net8.0\authenticationAPIEndPoint.sourcelink.json
